@@ -1,7 +1,7 @@
-# 👋 Salut, je suis Camillia HAMMOU
+# 👋 Hi, I'm Camillia HAMMOU
 
-## 👀 À propos de moi
-Je suis une développeuse passionnée. Mes compétences principales incluent :
+## 👀 About Me
+I am a passionate developer. My main skills include:
 
 - 💻 C
 - 🌐 HTML, CSS, PHP, SQL
@@ -9,12 +9,12 @@ Je suis une développeuse passionnée. Mes compétences principales incluent :
 - ☕ Java
 - 🦀 Rust
 
-## 🌱 Ce que j'apprends actuellement
-Je suis constamment en train d'apprendre de nouvelles technologies et d'explorer de nouveaux domaines de développement. En ce moment, je m'intéresse particulièrement au Rust :))
+## 🌱 What I'm Currently Learning
+I am constantly learning new technologies and exploring new development areas. Right now, I'm particularly interested in Rust :))
 
 ## ⚡ Fun Fact
-Un fait amusant à mon sujet : je suis également passionnée par la littérature.
+A fun fact about me: I am also passionate about literature.
 
 <!---
-CamilliaHammou/CamilliaHammou est un ✨ référentiel spécial ✨ car son fichier `README.md` (ce fichier) apparaît sur votre profil GitHub. Vous pouvez cliquer sur le lien "Preview" pour voir un aperçu de vos modifications.
+CamilliaHammou/CamilliaHammou is a ✨ special repository ✨ because its `README.md` file (this file) appears on your GitHub profile. You can click on the "Preview" link to see a preview of your changes.
 --->
