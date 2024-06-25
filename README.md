@@ -10,7 +10,7 @@ I am a passionate developer. My main skills include:
 - 🦀 Rust
 
 ## 🌱 What I'm Currently Learning
-I am constantly learning new technologies and exploring new development areas. Right now, I'm particularly interested in Rust :))
+I am constantly learning new technologies and exploring new development areas. Right now, I'm particularly interested in PYTHONNNNNNNN :))
 
 ## ⚡ Fun Fact
 A fun fact about me: I am also passionate about literature.
