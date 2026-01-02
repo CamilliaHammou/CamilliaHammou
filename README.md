@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Camillia HAMMOU
+# Hi, I'm Camillia HAMMOU
 
-## 👀 About Me
+## About Me
 I am a passionate developer. My main skills include:
 
-- 💻 C
-- 🌐 HTML, CSS, PHP, SQL
-- 🐍 Python
-- ☕ Java
-- 🦀 Rust
+- C
+- HTML, CSS, PHP, SQL
+- Python
+- Java
+- Rust
 
 ## 🌱 What I'm Currently Learning
 I am constantly learning new technologies and exploring new development areas. Right now, I'm particularly interested in PYTHONNNNNNNN :))
